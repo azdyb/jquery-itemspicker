@@ -25,7 +25,7 @@ Suppose you have this html code::
         <li>Item 3</li>
     </ul>
 
-By invoking itemspicker function <ul> element, one makes its items selectable::
+By invoking itemspicker function on <ul> element, one makes its items selectable::
 
     $("ul").itemspicker({
         items: "li",
