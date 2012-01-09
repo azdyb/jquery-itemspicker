@@ -1,7 +1,7 @@
 What is itemspicker?
 ====================
 
-Itemspicker is a jQuery_. plugin, which helps managing selectable items. It hooks on a bunch of any DOM elements (e.g. <li>) and waits for some trigger (usually click) to toggle item's deffined class (default "selected").
+Itemspicker is a jQuery_ plugin, which helps managing selectable items. It hooks on a bunch of any DOM elements (e.g. <li>) and waits for some trigger (usually click) to toggle item's deffined class (default "selected").
 
 .. _jQuery: http://jquery.com/
 
